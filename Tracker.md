@@ -1,10 +1,10 @@
 # FFXIV Character Progress Tracker
 
 ## Character Information
-- **Character Name:** 
-- **World/Data Center:** 
-- **Main Job:** 
-- **Current Item Level:** 
+- **Character Name:** Gaelyn Icetalon
+- **World/Data Center:** Seraph/Dynamis
+- **Main Job:** Monk
+- **Current Item Level:** 100
 - **Lodestone Profile:** 
 
 ## Job Levels & Progress
@@ -12,50 +12,50 @@
 ### Combat Jobs
 | Job | Current Level | Experience to Next | Priority (1-5) | Notes |
 |-----|---------------|-------------------|----------------|-------|
-| Paladin | | | | |
-| Warrior | | | | |
-| Dark Knight | | | | |
-| Gunbreaker | | | | |
-| White Mage | | | | |
-| Scholar | | | | |
-| Astrologian | | | | |
-| Sage | | | | |
-| Monk | | | | |
-| Dragoon | | | | |
-| Ninja | | | | |
-| Samurai | | | | |
-| Reaper | | | | |
-| Viper | | | | |
-| Bard | | | | |
-| Machinist | | | | |
-| Dancer | | | | |
-| Black Mage | | | | |
-| Summoner | | | | |
-| Red Mage | | | | |
-| Pictomancer | | | | |
-| Blue Mage | | | | |
+| Paladin/Gladiator | 18 | | 2 | |
+| Warrior/Marauder | 4 | | | |
+| Dark Knight | 0 | | | |
+| Gunbreaker | 0 | | | |
+| White Mage/Conjurer | 8 | | | |
+| Scholar | 0 | | | |
+| Astrologian | 0 | | | |
+| Sage | 0 | | | |
+| Monk | 54 | | 1 | |
+| Dragoon/Lancer | 4 | | | |
+| Ninja/Rogue | 6 | | | |
+| Samurai | 50 | | | |
+| Reaper | 0 | | | |
+| Viper | 0 | | | |
+| Bard/Archer | 4 | | | |
+| Machinist | 0 | | | |
+| Dancer | 0 | | | |
+| Black Mage |  | | | |
+| Summoner/Thaumaturge | 6 | | 3 | |
+| Red Mage | 50 | | | |
+| Pictomancer | 0 | | | |
+| Blue Mage | 8 | | | |
 
 ### Crafting Jobs (DoH)
 | Job | Current Level | Priority | Specialist? | Notes |
 |-----|---------------|----------|-------------|-------|
-| Carpenter | | | | |
-| Blacksmith | | | | |
-| Armorer | | | | |
-| Goldsmith | | | | |
-| Leatherworker | | | | |
-| Weaver | | | | |
-| Alchemist | | | | |
-| Culinarian | | | | |
+| Carpenter | 51 | | | |
+| Blacksmith | 52 | | | |
+| Armorer | 52 | | | |
+| Goldsmith | 52 | | | |
+| Leatherworker | 52 | | | |
+| Weaver | 52 | | | |
+| Alchemist | 52 | | | |
+| Culinarian | 51 | | | |
 
 ### Gathering Jobs (DoL)
 | Job | Current Level | Priority | Notes |
 |-----|---------------|----------|-------|
-| Miner | | | |
-| Botanist | | | |
-| Fisher | | | |
+| Miner | 52 | | |
+| Botanist | 53 | | |
+| Fisher | 51 | | |
 
 ## Main Story Quest Progress
-- **Current MSQ:** 
+- **Current MSQ:** All Due Respect
 - **Expansion:** 
 - **Patch:** 
 - **Progress Notes:** 
@@ -63,15 +63,15 @@
 ## Current Goals & Priorities
 
 ### Short-term Goals (This Week)
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Progress MSQ to unlock new zones to continue crafting levelling
+2. Get upgraded gear for DoH/DoL jobs
+3. Level Tank
+4. Level Retainers
+5. Collect Mounts
 
 ### Medium-term Goals (This Month)
-1. 
-2. 
+1. Unlock New Zones
+2. Level Crafting
 3. 
 
 ### Long-term Goals (This Patch/Expansion)
@@ -82,7 +82,7 @@
 ## Endgame Content Progress
 
 ### Dungeons
-- **Expert Roulette Unlocked:** Yes/No
+- **Expert Roulette Unlocked:** No
 - **Latest Dungeon Completed:** 
 - **Dungeons Still Needed:** 
 
